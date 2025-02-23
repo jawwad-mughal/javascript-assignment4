@@ -90,7 +90,13 @@ console.log("Initial colors array:", colors);
 // console.log("After adding color at index", indexToAdd, ":", colors); 
 
 // G)
-let indexToDelete = parseInt(prompt("At which index do you want to delete color(s)?"));  
-let numberToDelete = parseInt(prompt("How many colors do you want to delete?"));  
- colors.splice(indexToDelete, numberToDelete);  
- console.log("After deleting", numberToDelete, "colors from index", indexToDelete, ":", colors);
+// let indexToDelete = parseInt(prompt("At which index do you want to delete color(s)?"));  
+// let numberToDelete = parseInt(prompt("How many colors do you want to delete?"));  
+//  colors.splice(indexToDelete, numberToDelete);  
+//  console.log("After deleting", numberToDelete, "colors from index", indexToDelete, ":", colors);
+
+//  Q11
+// let cities = ['Karachi','lahore','Islamabad','Peshawar','Quetta'];  
+// let selectedCities = cities.slice(0, 3);
+// console.log("Original Cities: ", cities);  
+// console.log("Selected Cities: ", selectedCities);
