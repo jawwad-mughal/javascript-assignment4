@@ -1,4 +1,4 @@
-// class assignment
+// class assignment (start)
 // ARRAYS (start)
 
 // Q1
@@ -117,4 +117,92 @@ console.log("Initial colors array:", colors);
 //      print = fifoArray[i]; 
 //      console.log(print);
 // }
+
+// class assignment (end)
+// home assignment (start)
+
+// Chapter 15 (Array I) (Start)
+
+// Q1
+// let declare = [];
+
+// Q2
+// let arr = ['Hello world'];
+// console.log(arr);
+
+// Q3
+// var alphabet =['h','i','j','k'];
+// alert(alphabet[2]);
+
+// Q4
+// var alphabet =['h','i','j','k','l','m','n','o'];
+// alert('Total lenght = '+ (alphabet.length));
+
+// Q5
+// var myArray = ['First Element'];
+// myArray[1] = 'Second Element';
+// alert(myArray[1]);
+
+// Chapter 15 (Array I) (End)
+
+// Chapter 16 (Array II) (start)
+// Q1
+// let arry = ['Hello'];
+// arry.push('world');
+// console.log(arry);
+
+// Q2
+// var alphabet = ['h','i','j','k'];
+// alphabet.pop();
+// console.log(alphabet);
+
+// Q3
+// var alphabet = ['h','i','j','k'];
+// alphabet.push(5);
+// console.log(alphabet);
+
+// Q4
+// var sizes = ['S','M','XL','XXL','XXXL'];
+// sizes.shift();
+// console.log(sizes);
+
+// Q5
+// var sizes = ["S", "M", "XL", "XXL", "XXXL"];
+// sizes.unshift(1,2,3);
+// console.log(sizes);
+
+// Q6
+// let arry = [2];
+// arry.unshift(1);
+// alert(arry);
+
+// Q7
+// var sizes = ["S", "M", "XL", "XXL", "XXXL"]; 
+// sizes.splice(2,0,'L')
+// console.log(sizes);
+
+// Q8
+// var sizes = ["S", "M", "XL", "XXL", "XXXL"];  
+// var regSizes = sizes.slice(0, 3);
+// console.log(sizes);
+// console.log(regSizes);
+
+// Q7
+// var pets = ['dog','cat','ox','duck','frog'];
+//  pets.splice(1, 3 , 'Hamster', 'Rabbit');
+// console.log(pets);
+
+// Q8
+// var pets = ['dog','cat','ox','duck','frog'];
+// pets.splice(1, 2);
+// console.log(pets);
+
+// Q9
+// var pets = ["dog", "cat", "ox", "duck", "frog", "flea"];  
+// var reducedPets = pets.slice(3,5);
+// console.log(pets);
+// console.log('Reduced pets array: ' + reducedPets);
+// Chapter 16 (Array II) (End)
+
+// home assignment (end)
 
