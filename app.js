@@ -100,3 +100,21 @@ console.log("Initial colors array:", colors);
 // let selectedCities = cities.slice(0, 3);
 // console.log("Original Cities: ", cities);  
 // console.log("Selected Cities: ", selectedCities);
+
+// Q12
+// var arr = ["This ", " is ", " my ", " cat"];  
+// var result = arr.join('');
+// console.log(result);
+
+// Q13
+
+// var fifoArray = [];  
+// fifoArray.push("First");  
+// fifoArray.push("Second");  
+// fifoArray.push("Third"); 
+// let print;
+// for(let i = 0; i < fifoArray.length; i++){
+//      print = fifoArray[i]; 
+//      console.log(print);
+// }
+
