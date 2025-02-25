@@ -202,7 +202,7 @@ console.log("Initial colors array:", colors);
 // var reducedPets = pets.slice(3,5);
 // console.log(pets);
 // console.log('Reduced pets array: ' + reducedPets);
-// Chapter 16 (Array II) (End)
 
+// Chapter 16 (Array II) (End)
 // home assignment (end)
 
